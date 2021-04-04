@@ -23,4 +23,5 @@ After installing, check the version in cmd/Power Shell - `go version`
 4. [Loops](https://github.com/Harishankar-GitHub/Go/tree/main/4%20Loops)
 5. [Errors](https://github.com/Harishankar-GitHub/Go/blob/main/5%20Errors/errors.go)
 6. [Pointers](https://github.com/Harishankar-GitHub/Go/blob/main/6%20Pointers/pointers.go)
-7. [Structures]()
+7. [Structures](https://github.com/Harishankar-GitHub/Go/blob/main/7%20Structures/structures.go)
+8. [Slices and Maps]()
