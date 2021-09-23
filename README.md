@@ -5,6 +5,8 @@
 - [Other Docs](https://golang.org/doc/)
 
 - Useful website for Go: [learn.go.dev](https://learn.go.dev/)
+	- [Go by Example](https://gobyexample.com/)
+	- [Web Dev](https://gowebexamples.com/)
 
 + Installation - [Click here](https://golang.org/doc/install) or [Click here](https://golang.org/dl/)
 
