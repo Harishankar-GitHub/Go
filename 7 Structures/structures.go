@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Structures provide a way to combine date with different types into a single data structure.
+// Structures provide a way to combine data with different types into a single data structure.
 
 type Person struct {
 	First string

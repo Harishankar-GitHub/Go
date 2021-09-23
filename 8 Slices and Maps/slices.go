@@ -17,7 +17,7 @@ func main() {
 	s1 = append(s1, 5)		// Appending 5 to the slice.
 	fmt.Println("S1: ", s1)		// Prints [1 2 3 4 5]
 
-	s2 := make([]int, 0)		// Creating a slice using make keyword. Length = 3, Datatype - int.
+	s2 := make([]int, 0)		// Creating a slice using make keyword. Length = 0, Datatype - int.
 	fmt.Println("S2: ", s2)		// []
 
 	s3 := make([]int, 10)		// Creating a slice using make keyword. Length = 3, Datatype - int.
