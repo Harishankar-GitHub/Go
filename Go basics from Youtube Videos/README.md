@@ -22,3 +22,14 @@
 	- cf mod, then ls
 	- We can find few files like cache, github.com, gopkg.in and few more.
 	- These are the default packages.
+
+### 02 Variables
+
+- Created main.go file
+- In terminal `go mod init variables`
+- Then the code in main.go file.
+
+* Resources
+	- [Documentation of fmt package](https://pkg.go.dev/fmt)
+	- [Types in Golang](https://pkg.go.dev/builtin#pkg-types)
+	- [Documentation Lexical elements](https://golang.org/ref/spec#Lexical_elements)
