@@ -44,3 +44,13 @@
 	* To search any package in Go: [https://pkg.go.dev/](https://pkg.go.dev/)
 	* [bufio](https://pkg.go.dev/bufio) package to get the input from user and other source of inputs.
 	* [os](https://pkg.go.dev/os) is also one of the useful packages.
+
+### 04 Conversion
+
+- Created main.go file
+- In terminal `go mod init conversion`
+- Then the code in main.go file.
+
+* Resources
+	* [strconv](https://pkg.go.dev/strconv) package is used to convert string to various types.
+	* [strings](https://pkg.go.dev/strings) package is very powerful package in Golang.
