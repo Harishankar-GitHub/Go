@@ -33,3 +33,14 @@
 	- [Documentation of fmt package](https://pkg.go.dev/fmt)
 	- [Types in Golang](https://pkg.go.dev/builtin#pkg-types)
 	- [Documentation Lexical elements](https://golang.org/ref/spec#Lexical_elements)
+
+### 03 User Input
+
+- Created main.go file
+- In terminal `go mod init userinput`
+- Then the code in main.go file.
+
+* Resources
+	* To search any package in Go: [https://pkg.go.dev/](https://pkg.go.dev/)
+	* [bufio](https://pkg.go.dev/bufio) package to get the input from user and other source of inputs.
+	* [os](https://pkg.go.dev/os) is also one of the useful packages.
