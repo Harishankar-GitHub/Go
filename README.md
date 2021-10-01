@@ -10,9 +10,9 @@
 
 + Installation - [Click here](https://golang.org/doc/install) or [Click here](https://golang.org/dl/)
 
-After installing, check the version in cmd/Power Shell - `go version`
+> After installing, check the version in cmd/Power Shell - `go version`
 
-- To view the commands - `go help`
+> To view the commands - `go help`
 ---
 
 ## Resources
@@ -38,5 +38,29 @@ After installing, check the version in cmd/Power Shell - `go version`
 	- One such thing is try - catch block.
 	- And it is not needed in Go.
 	- No need to write semi colon while coding in Golang.
-		- But the document says semi colon is required,
-		- Lexer does a lot of work.
+		- But the document says semi colon is required.
+		- Even if we put semicolons at the end of the statements (which is still correct), as soon as we save the file, the [Go Extension](https://code.visualstudio.com/docs/languages/go) that is in the Visual Studio Code removes it.
+		- Lexer does a lot of work. [Documentation](https://golang.org/ref/spec#Semicolons)
+- Types
+	- Case insensitive, almost
+	- We can also differenciate a method, variable etc., if it is private or public.
+	- If the first letter is capitalized, then it is Public.
+	- Variable type should be known in advance.
+		- But there are some syntax which allows us to declare a variable without specifying the type and it will predict the type on the go.
+	- Everything in the Golang is a Type.
+
+	* Few types
+		- String
+		- Bool
+		- Integer
+			- Aliases are involved too - `uint8`, `unit64`, `int8`, `int64`, `uintptr`
+		- Floating
+			- `float32`, `float64`
+		- Complex
+		- Arrays
+		- Slices
+		- Maps
+		- Structs
+		- Pointers
+
+	> Almost everything, Functions, CHannels etc., are Types in Golang.
