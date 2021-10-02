@@ -2,7 +2,7 @@
 
 > **IDE - Visual Studio Code**
 
-### 01 Hello
+#### 01 Hello
 
 - Created main.go file
 - In terminal `go mod init hello`
@@ -23,39 +23,39 @@
 	- We can find few files like cache, github.com, gopkg.in and few more.
 	- These are the default packages.
 
-### 02 Variables
+#### 02 Variables
 
 - Created main.go file
 - In terminal `go mod init variables`
 - Then the code in main.go file.
 
-* Resources
+* Resource
 	- [Documentation of fmt package](https://pkg.go.dev/fmt)
 	- [Types in Golang](https://pkg.go.dev/builtin#pkg-types)
 	- [Documentation Lexical elements](https://golang.org/ref/spec#Lexical_elements)
 
-### 03 User Input
+#### 03 User Input
 
 - Created main.go file
 - In terminal `go mod init userinput`
 - Then the code in main.go file.
 
-* Resources
+* Resource
 	* To search any package in Go: [https://pkg.go.dev/](https://pkg.go.dev/)
 	* [bufio](https://pkg.go.dev/bufio) package to get the input from user and other source of inputs.
 	* [os](https://pkg.go.dev/os) is also one of the useful packages.
 
-### 04 Conversion
+#### 04 Conversion
 
 - Created main.go file
 - In terminal `go mod init conversion`
 - Then the code in main.go file.
 
-* Resources
+* Resource
 	* [strconv](https://pkg.go.dev/strconv) package is used to convert string to various types.
 	* [strings](https://pkg.go.dev/strings) package is very powerful package in Golang.
 
-### 05 Time
+#### 05 Time
 
 - Created main.go file
 - In terminal `go mod init mytime`
@@ -74,5 +74,5 @@
 	- `GOOS="linux" go build` - For Linux
 	- `GOOS="darwin" go build` - For Mac (darwin is considered as Mac)
 
-* Resources
+* Resource
 	* [time](https://pkg.go.dev/time) package in Golang.
