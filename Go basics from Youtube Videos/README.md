@@ -54,3 +54,25 @@
 * Resources
 	* [strconv](https://pkg.go.dev/strconv) package is used to convert string to various types.
 	* [strings](https://pkg.go.dev/strings) package is very powerful package in Golang.
+
+### 05 Time
+
+- Created main.go file
+- In terminal `go mod init mytime`
+- Then the code in main.go file.
+
+* `go env` - Env prints Go environment information.
+* `go help env` - More information about `go env` command.
+
+- In `go env` command, there are a lot of information about the Go environment.
+- One such is **GOOS=windows** (Because I use a Windows machine)
+- This will be different depending on the Operating System.
+- In my case, I'm in a Windows machine.
+- I can generate the build package for any Operating System from Windows.
+- Command to do that: (Doesn't work for me. Need to check)
+	- `GOOS="windows" go build` - For Windows
+	- `GOOS="linux" go build` - For Linux
+	- `GOOS="darwin" go build` - For Mac (darwin is considered as Mac)
+
+* Resources
+	* [time](https://pkg.go.dev/time) package in Golang.
