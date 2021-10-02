@@ -81,3 +81,15 @@
 >- When we pass these variables to methods/functions etc., sometimes a copy of value is passed instead of the actual value.
 >- This is where the ***Pointer concept in Golang*** plays a major role.
 >- Pointer provides 100% guarantee that the actual value is passed on every time.
+
+#### 07 Arrays
+- Created main.go file
+- In terminal `go mod init arrays`
+- Then the code in main.go file.
+
+>- In other programming languages, Arrays are one of the most used data structures.
+>- But in Golang, the language specification holds our hand a lot and don't allow us  to use too much of the array.
+>- But under the hood, there are other datatypes which actually utilises array but gives us lot more freedom than that.
+
+* Resource
+	* [Array Types](https://golang.org/ref/spec#Array_types) in Golang.
