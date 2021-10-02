@@ -3,7 +3,6 @@
 > **IDE - Visual Studio Code**
 
 #### 01 Hello
-
 - Created main.go file
 - In terminal `go mod init hello`
 - Then the code in main.go file.
@@ -24,7 +23,6 @@
 	- These are the default packages.
 
 #### 02 Variables
-
 - Created main.go file
 - In terminal `go mod init variables`
 - Then the code in main.go file.
@@ -35,7 +33,6 @@
 	- [Documentation Lexical elements](https://golang.org/ref/spec#Lexical_elements)
 
 #### 03 User Input
-
 - Created main.go file
 - In terminal `go mod init userinput`
 - Then the code in main.go file.
@@ -46,7 +43,6 @@
 	* [os](https://pkg.go.dev/os) is also one of the useful packages.
 
 #### 04 Conversion
-
 - Created main.go file
 - In terminal `go mod init conversion`
 - Then the code in main.go file.
@@ -56,7 +52,6 @@
 	* [strings](https://pkg.go.dev/strings) package is very powerful package in Golang.
 
 #### 05 Time
-
 - Created main.go file
 - In terminal `go mod init mytime`
 - Then the code in main.go file.
@@ -76,3 +71,13 @@
 
 * Resource
 	* [time](https://pkg.go.dev/time) package in Golang.
+
+#### 06 Pointers
+- Created main.go file
+- In terminal `go mod init pointers`
+- Then the code in main.go file.
+
+>- Generally in programming languages, when a variable or constant is created, the variable has the reference to the address.
+>- When we pass these variables to methods/functions etc., sometimes a copy of value is passed instead of the actual value.
+>- This is where the ***Pointer concept in Golang*** plays a major role.
+>- Pointer provides 100% guarantee that the actual value is passed on every time.
