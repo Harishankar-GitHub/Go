@@ -106,3 +106,11 @@
 
 * Resource
 	* [Slice Types](https://golang.org/ref/spec#Slice_types) in Golang.
+
+#### 09 Maps
+- Created main.go file
+- In terminal `go mod init maps`
+- Then the code in main.go file.
+
+* Resource
+	* [Map Types](https://golang.org/ref/spec#Map_types) in Golang.
