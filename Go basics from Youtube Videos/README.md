@@ -93,3 +93,16 @@
 
 * Resource
 	* [Array Types](https://golang.org/ref/spec#Array_types) in Golang.
+
+#### 08 Slices
+- Created main.go file
+- In terminal `go mod init slices`
+- Then the code in main.go file.
+
+>- Slice is the ***mostly used datatype*** in Golang.
+>- Slices are actually under the hood arrays.
+>- These arrays once they get an abstraction layer and some more features, they are called as Slices.
+>- In Golang, Slices are used more as they are more powerful.
+
+* Resource
+	* [Slice Types](https://golang.org/ref/spec#Slice_types) in Golang.
