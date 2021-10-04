@@ -114,3 +114,15 @@
 
 * Resource
 	* [Map Types](https://golang.org/ref/spec#Map_types) in Golang.
+
+#### 10 Structs
+- Created main.go file
+- In terminal `go mod init structs`
+- Then the code in main.go file.
+
+> ***Note:***
+	>- ***No Inheritance in Golang.***
+	>- ***No parent or super concepts in Golang.***
+
+* Resource
+	* [Struct Types](https://golang.org/ref/spec#Struct_types) in Golang.
