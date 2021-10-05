@@ -146,3 +146,14 @@
 > //stmt
 > }
 > ```
+
+* Resource
+	* [If-Else](https://golang.org/ref/spec#If_statements) in Golang.
+
+#### 11 Switch case
+- Created main.go file
+- In terminal `go mod init switchcase`
+- Then the code in main.go file.
+
+* Resource
+	* [Switch case](https://golang.org/ref/spec#Switch_statements) in Golang.
