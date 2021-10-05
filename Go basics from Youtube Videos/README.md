@@ -2,7 +2,7 @@
 
 > **IDE - Visual Studio Code**
 
-#### 01 Hello
+1. **Hello**
 - Created main.go file
 - In terminal `go mod init hello`
 - Then the code in main.go file.
@@ -22,7 +22,7 @@
 	- We can find few files like cache, github.com, gopkg.in and few more.
 	- These are the default packages.
 
-#### 02 Variables
+2. **Variables**
 - Created main.go file
 - In terminal `go mod init variables`
 - Then the code in main.go file.
@@ -32,7 +32,7 @@
 	- [Types in Golang](https://pkg.go.dev/builtin#pkg-types)
 	- [Documentation Lexical elements](https://golang.org/ref/spec#Lexical_elements)
 
-#### 03 User Input
+3. **User Input**
 - Created main.go file
 - In terminal `go mod init userinput`
 - Then the code in main.go file.
@@ -42,7 +42,7 @@
 	* [bufio](https://pkg.go.dev/bufio) package to get the input from user and other source of inputs.
 	* [os](https://pkg.go.dev/os) is also one of the useful packages.
 
-#### 04 Conversion
+4. **Conversion**
 - Created main.go file
 - In terminal `go mod init conversion`
 - Then the code in main.go file.
@@ -51,7 +51,7 @@
 	* [strconv](https://pkg.go.dev/strconv) package is used to convert string to various types.
 	* [strings](https://pkg.go.dev/strings) package is very powerful package in Golang.
 
-#### 05 Time
+5. **Time**
 - Created main.go file
 - In terminal `go mod init mytime`
 - Then the code in main.go file.
@@ -72,7 +72,7 @@
 * Resource
 	* [time](https://pkg.go.dev/time) package in Golang.
 
-#### 06 Pointers
+6. **Pointers**
 - Created main.go file
 - In terminal `go mod init pointers`
 - Then the code in main.go file.
@@ -82,7 +82,7 @@
 >- This is where the ***Pointer concept in Golang*** plays a major role.
 >- Pointer provides 100% guarantee that the actual value is passed on every time.
 
-#### 07 Arrays
+7. **Arrays**
 - Created main.go file
 - In terminal `go mod init arrays`
 - Then the code in main.go file.
@@ -94,7 +94,7 @@
 * Resource
 	* [Array Types](https://golang.org/ref/spec#Array_types) in Golang.
 
-#### 08 Slices
+8. **Slices**
 - Created main.go file
 - In terminal `go mod init slices`
 - Then the code in main.go file.
@@ -107,7 +107,7 @@
 * Resource
 	* [Slice Types](https://golang.org/ref/spec#Slice_types) in Golang.
 
-#### 09 Maps
+9. **Maps**
 - Created main.go file
 - In terminal `go mod init maps`
 - Then the code in main.go file.
@@ -115,7 +115,7 @@
 * Resource
 	* [Map Types](https://golang.org/ref/spec#Map_types) in Golang.
 
-#### 10 Structs
+10. **Structs**
 - Created main.go file
 - In terminal `go mod init structs`
 - Then the code in main.go file.
@@ -127,7 +127,7 @@
 * Resource
 	* [Struct Types](https://golang.org/ref/spec#Struct_types) in Golang.
 
-#### 11 If Else
+11. **If-Else**
 - Created main.go file
 - In terminal `go mod init ifelse`
 - Then the code in main.go file.
@@ -150,10 +150,15 @@
 * Resource
 	* [If-Else](https://golang.org/ref/spec#If_statements) in Golang.
 
-#### 11 Switch case
+12. **Switch case**
 - Created main.go file
 - In terminal `go mod init switchcase`
 - Then the code in main.go file.
 
 * Resource
 	* [Switch case](https://golang.org/ref/spec#Switch_statements) in Golang.
+
+13. **Loops**
+- Created main.go file
+- In terminal `go mod init loops`
+- Then the code in main.go file.
