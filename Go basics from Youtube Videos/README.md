@@ -126,3 +126,23 @@
 
 * Resource
 	* [Struct Types](https://golang.org/ref/spec#Struct_types) in Golang.
+
+#### 11 If Else
+- Created main.go file
+- In terminal `go mod init ifelse`
+- Then the code in main.go file.
+
+> In If-Else syntax, the curly braces must be on the same line.
+> Correct Syntax:
+> ```
+> if condition {
+>	//stmt
+> }
+> ```
+> Incorrect Syntax:
+> ```
+> if condition
+> {
+> //stmt
+> }
+> ```
