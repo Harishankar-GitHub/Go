@@ -162,3 +162,11 @@
 - Created main.go file
 - In terminal `go mod init loops`
 - Then the code in main.go file.
+
+14. **Functions**
+- Created main.go file
+- In terminal `go mod init functions`
+- Then the code in main.go file.
+
+* Resource
+	* [Functions](https://golang.org/ref/spec#Function_types) in Golang.
