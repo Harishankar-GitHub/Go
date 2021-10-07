@@ -170,3 +170,12 @@
 
 * Resource
 	* [Functions](https://golang.org/ref/spec#Function_types) in Golang.
+	* [Function Declarations](https://golang.org/ref/spec#Function_declarations) in Golang.
+
+15. **Methods**
+- Created main.go file
+- In terminal `go mod init methods`
+- Then the code in main.go file.
+
+* Resource
+	* [Method Declarations](https://golang.org/ref/spec#Method_declarations) in Golang.
