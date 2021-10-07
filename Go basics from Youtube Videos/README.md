@@ -179,3 +179,11 @@
 
 * Resource
 	* [Method Declarations](https://golang.org/ref/spec#Method_declarations) in Golang.
+
+16. **Defer**
+- Created main.go file
+- In terminal `go mod init defer`
+- Then the code in main.go file.
+
+* Resource
+	* [Defer Statements](https://golang.org/ref/spec#Defer_statements) in Golang.
