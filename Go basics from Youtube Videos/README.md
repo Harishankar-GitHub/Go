@@ -192,3 +192,14 @@
 - Created main.go file
 - In terminal `go mod init files`
 - Then the code in main.go file.
+
+18. **Math, Crypto and Random Number**
+- Created main.go file
+- In terminal `go mod init files`
+- Then the code in main.go file.
+- Created crypto.go file
+- Then the code in crypto.go file.
+
+* Resource
+	* [math/rand](https://pkg.go.dev/math/rand) package in Golang.
+	* [crypto/rand](https://pkg.go.dev/crypto/rand) package in Golang.
