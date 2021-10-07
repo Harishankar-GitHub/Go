@@ -203,3 +203,12 @@
 * Resource
 	* [math/rand](https://pkg.go.dev/math/rand) package in Golang.
 	* [crypto/rand](https://pkg.go.dev/crypto/rand) package in Golang.
+
+19. **Handling Web Requests in Golang**
+- Created main.go file
+- In terminal `go mod init webrequests`
+- Then the code in main.go file.
+
+* Resource
+	* [net/http](https://pkg.go.dev/net/http) package in Golang.
+	
