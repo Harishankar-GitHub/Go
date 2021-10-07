@@ -187,3 +187,8 @@
 
 * Resource
 	* [Defer Statements](https://golang.org/ref/spec#Defer_statements) in Golang.
+
+17. **Working with Files**
+- Created main.go file
+- In terminal `go mod init files`
+- Then the code in main.go file.
