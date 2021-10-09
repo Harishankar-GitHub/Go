@@ -211,4 +211,12 @@
 
 * Resource
 	* [net/http](https://pkg.go.dev/net/http) package in Golang.
+
+20. **Handling URL in Golang**
+- Created main.go file
+- In terminal `go mod init urls`
+- Then the code in main.go file.
+
+* Resource
+	* [net/url](https://pkg.go.dev/net/url) package in Golang.
 	
